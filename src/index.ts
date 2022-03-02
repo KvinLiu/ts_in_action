@@ -4,7 +4,7 @@
  * @Description: 文件描述
  * @FilePath: \ts_in_action\src\index.ts
  * @LastEditors: lhf
- * @LastEditTime: 2022-03-02 14:43:00
+ * @LastEditTime: 2022-03-02 17:10:03
  */
 // import "./datatype.ts";
 // import "./enum.ts";
@@ -13,7 +13,8 @@
 // import "./class.ts";
 // import "./class-interface.ts";
 // import "./generics.ts";
-import "./advanced.ts";
+// import "./advanced.ts";
+import "./type-procted.ts";
 
 let hello: string = "hello typescript!";
 
