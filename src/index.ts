@@ -14,7 +14,10 @@
 // import "./class-interface.ts";
 // import "./generics.ts";
 // import "./advanced.ts";
-import "./type-procted.ts";
+// import "./type-procted.ts";
+// import "./advanced_type";
+
+import "./es6/c";
 
 let hello: string = "hello typescript!";
 
